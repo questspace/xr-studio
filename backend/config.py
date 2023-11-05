@@ -1,7 +1,7 @@
 import autogen
 
 open_ai_config_list = autogen.config_list_from_json(
-    "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",
+    "openai-key",
     filter_dict={
         "model": ["gpt-3.5-turbo"],
     },
