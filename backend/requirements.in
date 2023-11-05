@@ -4,18 +4,11 @@ uvicorn[standard]
 pydantic[email]
 pydantic-settings
 
-# Database
-motor
-dnspython
-
 # AI
 pyautogen
 langchain
 openai
 outlines
-
-# misc
-google-api-python-client
 
 # Development
 pip-tools
